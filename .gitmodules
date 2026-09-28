@@ -1,0 +1,6 @@
+[submodule "external/NV-Generate-CTMR"]
+	path = external/NV-Generate-CTMR
+	url = https://github.com/NVIDIA-Medtech/NV-Generate-CTMR.git
+[submodule "external/FlowLet"]
+	path = external/FlowLet
+	url = https://github.com/sisinflab/FlowLet.git
