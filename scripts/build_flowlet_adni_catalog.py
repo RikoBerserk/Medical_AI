@@ -50,7 +50,7 @@ for _, row in filtered.iterrows():
     if not matches:
         continue
 
-    # Se ci sono più match, prendiamo il primo per ora
+    # Se ci sono più match, prendiamo il primo 
     path = matches[0]
 
     records.append({
